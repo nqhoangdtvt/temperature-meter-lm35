@@ -1,0 +1,44 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.015
+Compiler=PCM
+CCSVersion=5.015
+[Target Data]
+FileList=main.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[D:\C-Microcontroller\PIC\SHARE\CHUONG VII - GIAO TIEP UART\BAI 31 - DO NHIET DO LM35 GIAO TIEP MAY TINH\main]
+Type=4
+[mru-list]
+1=main.c
+[Opened Files]
+1=main.c
+2=main.h
+3=
+4=
+[main.c]
+Type=4
+[Units]
+Count=1
+1=main (main)
+
+[ProjectLog]
+Days=2
+D1=18-07-2021
+D1_L=4
+D1_L1=[61803]Project Opened.
+TotalEdit=3
+TotalDebug=0
+D1_E=3
+D1_D=0
+D1_L2=[61844]Started Editing.
+D1_L3=[61874]Stopped Editing.
+D1_L4=[61874]Project Closed.
+D2=03-07-2022
+D2_L=2
+D2_L1=[76094]Project Opened.
+D2_L2=[76099]Project Closed.
+
+[fileformats]
+forcecoff=0
