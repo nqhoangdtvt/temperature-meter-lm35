@@ -9,5 +9,5 @@
 #use delay(crystal=4000000)
 #include <lcd.h>
 
-#use rs232(uart1,Baud=9600)//khai bao thong so cong uart
+#use rs232(uart1,Baud=9600)//Khai báo thông số cổng UART
 
